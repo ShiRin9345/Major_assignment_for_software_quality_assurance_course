@@ -10,4 +10,4 @@
 
 ## 小组仓库
 
-- [robust-test](https://github.com/Yummyyh/robust-test)
+- https://github.com/Yummyyh/robust-test
