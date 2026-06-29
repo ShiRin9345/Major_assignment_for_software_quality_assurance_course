@@ -12,3 +12,9 @@
  ## 文件说明
  - 开题报告文档.docx
  - 第十方向第三小组软件质量保障.pptx
+
+- 软件质量保障中的时序模型鲁棒性测试.docx
+- 软件质量保障完成汇报(2).pptx
+
+## 小组仓库地址
+https://github.com/l-y-r-max/XD--Software-Quality-Assurance.git

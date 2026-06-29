@@ -5,3 +5,5 @@
 | 关丽娜 | 23009201136 |
 | 程佳丽 | 23009201014 |
 | 王怡芯 | 23009200990 |
+
+复现仓库链接：https://github.com/ZzCreative/ARVerifier.git
